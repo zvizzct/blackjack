@@ -1,6 +1,6 @@
 #  Blackjack Vite
 
-This is a blackjack game built with Vite and Vue 3.
+This is a blackjack game built with Vite and vanilla javascript.
 
 ##  Getting Started
 
